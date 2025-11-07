@@ -62,7 +62,7 @@ CreationalPatterns/
    ```
 
 2. **Abre la solución con Visual Studio**  
-   Abre el archivo `CreationalPatterns.sln`.
+   Abre el archivo `DesignPatterns.sln`.
 
 3. **Selecciona el patrón que desees estudiar**  
    Navega entre los proyectos/carpetas correspondientes a cada patrón.
