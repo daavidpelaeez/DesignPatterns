@@ -7,10 +7,6 @@ Este repositorio recopila ejemplos prácticos de **Patrones de Diseño Creaciona
 ## 📂 Estructura del Repositorio
 
 Cada patrón se encuentra en su propia carpeta/proyecto dentro de la solución.  
-En cada uno encontrarás:
-- Breve explicación del patrón
-- Código fuente en C#
-- Ejemplo de uso
 
 ### Ejemplo de estructura:
 ```
@@ -38,7 +34,7 @@ CreationalPatterns/
 
 1. **Clona este repositorio**  
    ```bash
-   git clone https://github.com/tu-usuario/CreationalPatterns.git
+   git clone https://github.com/daavidpelaeez/DesignPatterns.git
    ```
 
 2. **Abre la solución con Visual Studio**  
