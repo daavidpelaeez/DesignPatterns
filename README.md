@@ -22,12 +22,35 @@ CreationalPatterns/
 
 ## 📚 Patrones Implementados
 
-- [Factory Method](./FactoryMethod) <img width="640" height="400" alt="image" src="https://github.com/user-attachments/assets/e78d609e-eb14-4944-98bd-ac21c2051973" />
-- Singleton <img width="640" height="400" alt="image" src="https://github.com/user-attachments/assets/96623654-f9cc-49bb-9f8e-03ee58596c59" />
-- Abstract Factory<img width="640" height="400" alt="image" src="https://github.com/user-attachments/assets/fe4d05c5-f137-4343-bb99-a0986d77a598" />
-- Builder <img width="640" height="400" alt="image" src="https://github.com/user-attachments/assets/887e5820-057a-4dee-8dd0-e38144cf8b00" />
-- Prototype <img width="640" height="400" alt="image" src="https://github.com/user-attachments/assets/5fc89e57-3b7b-4beb-8c41-6dd693e78221" />
-
+<table>
+  <tr>
+    <td>
+      <b><a href="./FactoryMethod">Factory Method</a></b><br>
+      <img width="320" height="200" alt="Factory Method" src="https://github.com/user-attachments/assets/e78d609e-eb14-4944-98bd-ac21c2051973" />
+    </td>
+    <td>
+      <b>Singleton</b><br>
+      <img width="320" height="200" alt="Singleton" src="https://github.com/user-attachments/assets/96623654-f9cc-49bb-9f8e-03ee58596c59" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>Abstract Factory</b><br>
+      <img width="320" height="200" alt="Abstract Factory" src="https://github.com/user-attachments/assets/fe4d05c5-f137-4343-bb99-a0986d77a598" />
+    </td>
+    <td>
+      <b>Builder</b><br>
+      <img width="320" height="200" alt="Builder" src="https://github.com/user-attachments/assets/887e5820-057a-4dee-8dd0-e38144cf8b00" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>Prototype</b><br>
+      <img width="320" height="200" alt="Prototype" src="https://github.com/user-attachments/assets/5fc89e57-3b7b-4beb-8c41-6dd693e78221" />
+    </td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
@@ -64,4 +87,3 @@ CreationalPatterns/
 - [Microsoft Docs – Design Patterns](https://learn.microsoft.com/es-es/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures#common-architecture-patterns)
 
 ---
-
