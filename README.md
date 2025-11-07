@@ -22,11 +22,12 @@ CreationalPatterns/
 
 ## 📚 Patrones Implementados
 
-- [Factory Method](./FactoryMethod)
-- Singleton
-- Abstract Factory
-- Builder
-- Prototype
+- [Factory Method](./FactoryMethod) <img width="640" height="400" alt="image" src="https://github.com/user-attachments/assets/e78d609e-eb14-4944-98bd-ac21c2051973" />
+- Singleton <img width="640" height="400" alt="image" src="https://github.com/user-attachments/assets/96623654-f9cc-49bb-9f8e-03ee58596c59" />
+- Abstract Factory<img width="640" height="400" alt="image" src="https://github.com/user-attachments/assets/fe4d05c5-f137-4343-bb99-a0986d77a598" />
+- Builder <img width="640" height="400" alt="image" src="https://github.com/user-attachments/assets/887e5820-057a-4dee-8dd0-e38144cf8b00" />
+- Prototype <img width="640" height="400" alt="image" src="https://github.com/user-attachments/assets/5fc89e57-3b7b-4beb-8c41-6dd693e78221" />
+
 
 ---
 
