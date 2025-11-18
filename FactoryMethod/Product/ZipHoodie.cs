@@ -5,8 +5,8 @@ namespace FactoryMethod.Product
 {
     public class Ziphoodie : IClothes
     {
-        public double Discount { get; private set; }
-        public String Color { get; private set; }
+        private double Discount;
+        private String Color;
 
         public Ziphoodie()
         {
@@ -22,6 +22,11 @@ namespace FactoryMethod.Product
         public void AddDiscount()
         {
             this.Discount = 0.20;
+        }
+
+        public string GetAttributes()
+        {
+            return $"Discount: {Discount} Color: {Color} ";
         }
     }
 }

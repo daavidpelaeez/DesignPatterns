@@ -22,5 +22,10 @@ namespace FactoryMethod.Product
         {
             this.Discount = 0.12;
         }
+
+        public string GetAttributes()
+        {
+            return $"Discount: {Discount} Color: {Color} ";
+        }
     }
 }

@@ -6,6 +6,6 @@ namespace FactoryMethod.Product
     {
         public abstract void AddDiscount();
         public abstract void AddColor();
-
+        public string GetAttributes();
     }
 }
