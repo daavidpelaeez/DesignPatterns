@@ -3,7 +3,6 @@
     public class BasicHoodieBuilder : Builder
     {
         private Hoodie BasicHoodie;
-
         public void Reset()
         {
             BasicHoodie = new Hoodie();
